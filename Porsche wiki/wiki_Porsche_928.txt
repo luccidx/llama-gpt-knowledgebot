@@ -1,0 +1,144 @@
+**Contents**
+**Porsche 928**
+The Porsche 928 is a two door 2+2, high performance, grand touring super car[1] produced by Porsche AG of Germany from 1978 until 1995. Originally conceptualised to cater for an evolving automotive market, it was Porsche’s first entirely in-house design for a production car [2] and was ultimately intended to replace the Porsche 911 as Porsche’s flagship model. The 928 combined the handling and performance aspects of a sports car with the ride, load space and comfort of a luxury car.[3] Porsche executives believed the package would have wider appeal than the compact, somewhat antiquated and slow-selling air-cooled 911.[4] The 928 was the company's first production V8-powered model and its only coupé powered by a front-mounted V8 engine. It was particularly notable for its’ record-setting high top speed.[5][6] On its' release in 1978, the 928's advanced design & construction won it the European Car of the Year.[7]
+
+**Conception[edit]**
+By the late 1960s, Porsche had firmly established itself as a manufacturer of high-performance sports cars. In the wake of the 1970s oil crisis, executives, including owner Ferdinand Porsche, were beginning to consider adding a more fuel-efficient luxury touring car to the line-up. Managing director Ernst Fuhrmann was pressuring Ferdinand to approve development of the new model due to concerns that the then-current flagship model, the 911, was reaching the limits of its potential. Fuhrmann believed that the future of the company relied upon grand touring cars with conventional engines rather than unconventional sports cars. Slumping sales of the 911 in the mid-1970s seemed to confirm that the model was approaching the end of its economic life cycle. Fuhrmann envisioned the new range-topping grand tourer model as being the best possible combination of a sports coupé and a luxury sedan. This would set it apart from the 911, with its relatively spartan interior and true sports car performance. The targets were that the car had to compete on par with offerings from Mercedes-Benz and BMW while also being successful in the United States, Porsche's main market at the time.
+
+Ordered by Ferdinand Porsche to design a production-feasible concept for the new model, Fuhrmann initiated a design study in 1971, eventually yielding the 928 which was the first clean sheet design by the company for its own model; the 356 was a similar design to the Volkswagen Beetle, the 911 was an evolution of the 356, the 914 was a joint effort intended as a replacement for the Volkswagen Karmann Ghia and 912, and the 924 was the result of abandoned project by Volkswagen and Audi.
+
+Several drivetrain layouts were considered during early development, including rear- and mid-engine, but most were dismissed because of technical and legislative difficulties. Having the engine, transmission, catalytic converter(s) and exhaust all cramped into a small rear engine bay made emission and noise control difficult which were the problems Porsche had with the 911. After deciding that the mid-engine layout did not allow enough room in the passenger compartment, a front-engine, rear-wheel drive layout was chosen.
+
+Porsche engineers wanted a large-displacement engine to power the 928, and prototype units were built with a 5-litre V8 engine rated at 300 PS (220 kW; 300 hp). Ferdinand Piëch proposed the use of a 4.6-litre 90 degree V10 engine with 88 mm bore spacing, a derivative of the Audi 5 cylinder engine (used to power the Lamborghini Gallardo),[8][better source needed] which in turn is based upon the Volkswagen EA827 unit. The Porsche board objected as this engine would give rise to a rumour of a new 911 with a front-mounted Volkswagen-based engine, but also it is theorized that the board wanted to maintain some distance from the Volkswagen group.
+
+The resulting all-alloy M28 engine has multiple unusual features. Its bore spacing is 122 mm, reflecting the use of thick, all-aluminium cylinder barrels with no steel liners. Water jackets were very large, which indicated that Porsche may have wanted to eventually take this engine racing.  In order to maintain a low hood line, the engine was designed for airflow first, thus the spark plugs are located at the top of the head. The four-bolt bearings are sizeable and are fed oil via grooves in the bottom surface of the block. The bearings themselves are supported by a large one-piece structure that forms a lower block, and the cast aluminum oil pan is bolted onto this part.
+
+The oil and water pumps are driven by a timing belt; DOHC engines introduced in 1985 used a hybrid timing system; the timing belt operated only the exhaust camshafts, and the intake camshafts were operated via an internally-mounted simplex roller chain from the exhaust camshaft. This method reduced the complexity of the timing belt layout, and as a result, required fewer components, such as idler rollers and guides, and led to easier and less costly maintenance of the timing belt. This timing system was later used in the Porsche 944, and was also used by Audi and Volkswagen on their belt-driven DOHC engines.
+
+The first two running prototypes of Porsche's M28 V8 used one four-barrel carburetor for initial testing. Actual production cars employed the planned Bosch K-Jetronic fuel injection system. When increasing concern within the company over price and availability of fuel during the oil crisis of the 1970s became an issue of contention, smaller engines were considered in the interest of fuel economy. A push began for the development of a 3.3 L 182 PS (134 kW; 180 hp) powerplant envisioned by Fuhrmann, but company engineers balked at this suggestion. Both sides finally settled on a 4.5 L, SOHC per bank 16-valve V8 rated at 240 PS (180 kW; 240 hp) (219 hp (163 kW) in North America), which they considered to have an acceptable compromise of performance and fuel economy.
+
+The finished car debuted at the 1977 Geneva Motor Show before going on sale later that year as a 1978 model. Although it won early acclaim for its comfort, power and futuristic design, sales were slow. Base prices were much higher than that of the previous range-topping 911 model and the 928's front-engined, water-cooled design alienated many Porsche purists.
+
+Fuhrmann's replacement, Peter Schutz, decided that the models should be sold side by side, feeling that the 911 still had potential in the company's line-up.[9] Legislation against rear-engined vehicles did not materialize. Although it never sold in the numbers Fuhrmann envisioned, the 928 developed an avid following and had an 18-year production run.
+
+**Design and specifications[edit]**
+During its' 18 year production run, the fundamentals of the 928's design remained the same, though the engine and styling underwent several changes, with a distinct ‘facelift’ separating the first generation and second generation cars.
+
+The original 928 design was seen in both 1978 and 1979, with the body lacking both front and rear spoilers. From 1980 (1983 in North America) through 1986, front and rear spoilers were present on "S" and "S2" models, being integrated into the fastback. The first generation cars, which terminated in 1986 with the "S"/"S2" models, all featured a sharper, more angular front end with a distinct 'Shark Nose' profile. From 1987 the overall exterior design was revised and it was this shape that followed the 928 through to final production in 1995. The 1987 redesign integrated the front spoiler into the nose, smoothing out the overall nose profile to fit in with the tastes of contemporary car design & ditching the more angular, shark-nose wedge of the original cars. The rear spoiler became a separate wing rather than an integrated piece and side skirts were also added.[10] The rear tail-light configuration was also different from previous models, with more modern light covers that brought the rear light cluster away from the inset design of the original. GTS models featured flared rear wheel arches to give more room for wider 9-inch wide wheels. Another easily noticeable visual difference between versions is the style of the wheels. Early 928s had 15-inch or 16-inch "phone dial"-style wheels, while most 1980s 928s had 16-inch slotted "flat disc" wheels, with other wheels available as an option. CSs, SEs and 1989 GTs had 16-inch "Club Sport" wheels, later GTs had 16-inch "Design 90" style wheels which were also option on same period S4s (shared with the 944 as well), the GTS used two variations of the 17-inch "CUP" wheels.
+
+The 928 featured a front-mounted and water-cooled V8 engine driving the rear wheels. Originally displacing 4.5 L and featuring a single overhead camshaft design, it was rated at 240 PS (177 kW; 237 hp) in Europe, while smog equipment reduced the output to 219 hp (163 kW; 222 PS) for cars sold in the North American market.[11] The car would first see an increase in both displacement and output for the 1980 model year, with the introduction of the 4.7 L 928 S. The original 16v engine would continue to be developed until its' final iteration in the 1985 model year with the S/S2 model, which produced a 310 PS (228 kW; 306 hp) in European specification, thanks to higher compression, twin distributors with EZK ignition and Bosch LH-Jetronic fuel injection.[12] After 1986 the 16v engine was replaced by the Porsche 32v 5.0 L V8, which Porsche used until the 928 ceased produced in 1995.
+
+In combination with the water-cooled V8 engine, Porsche utilised a transaxle in the 928 to help achieve 50/50 front/rear weight distribution. Performance of early cars were similar to the contemporary 911, despite being heavier. By the time the S/S2 specification was in production, the 928 was outperforming even the 911 Turbo in top speed tests.[13] Early cars came with either a five-speed dog leg manual transmission, or a 3 speed Mercedes-Benz-derived automatic transmission. A four-speed automatic transmission replaced the three-speed option from 1983 in North America and 1984 in other markets. Of cars produced in 1978 and 1979, the majority were fitted with the 5 speed manual gearbox while the optional 3 speed automatic was specified less regularly. This trend quickly reversed as the model continued and final estimates suggest that in excess of 80% of all 928's produced, featured an automatic transmission.[14]
+
+The body, styled by Wolfgang Möbius under the guidance of Anatole Lapine used aluminium for the doors, front wing, front fenders, and bonnet to save weight, while the underlying chassis was made from galvanised steel. It had a substantial luggage area accessed via a large hatchback. Newly developed polyurethane elastic bumpers were integrated into the nose and tail and covered in body-coloured plastic; an advanced feature for the time that aided the car visually and reduced its drag. The distinctive pop-up headlamps, which remained visible in the wings even when they were retracted, completed the 928's shark-like appearance [14] and were based on the units found on the Lamborghini Miura.[15]
+
+The 928 qualified as a 2+2, having two small seats in the rear. Both rear seats could be folded down to enlarge the luggage area, and both the front and rear seats had sun visors for occupants. The rear seats are small (due to the prominent transmission hump) and have very little leg room; they are only suitable for adults on very short trips or children. The 928 was also the first vehicle in which the instrument cluster moved along with the adjustable steering wheel in order to maintain maximum instrument visibility.
+
+The 928 included several other features such as the "Weissach Axle", a passive rear-wheel steering system that increases stability while braking and during a turn. The engine was notable for its’ unsleeved, silicon alloy engine block made of aluminium, which reduced weight and provided a highly durable cylinder bore.[15]
+
+Porsche's design and development were rewarded during the 1978 European Car of the Year,[16] where the 928 won ahead of the BMW 7 Series, and the Ford Granada. The 928 is the only sports car to have won this accolade.
+
+**Later variants[edit]**
+Porsche introduced a refreshed 928 S into the European market in the 1980 model year, although it was the summer of 1982 and MY 1983 before the model reached North America. Externally, the S wore new front and rear spoilers and sported wider wheels and tires than the older variant, but the main change for the 928 S was under the hood, where a revised 4.7 L engine was used. European versions debuted with 221 kW; 296 hp (300 PS), and were upgraded to 228 kW; 306 hp (310 PS) for the 1984 model year. From 1984 to 1986, the S model was called S2 in United Kingdom. These cars used Bosch LH-Jetronic fuel injection system and purely electronic Bosch ignition, the same systems used on the later 32-valve cars. North American-spec 1983 and 1984 S models used among other differences, smaller valves, milder camshafts, smaller diameter intake manifolds, and additional pollution equipment in order to meet emissions regulations, and were limited to 174 kW; 237 PS (234 hp) as a result. Due to low-grade fuel, the 16-valve low compression S engine was made for the Australian market in the 1985 model year. It had a 9.3:1 compression ratio pistons as opposed to the normal 10.4:1 but used the same large intake, high lift cams, large valves, etc. of other S engines.
+
+As the faster European model was not available in the United States and Canada during the first three years of its existence, a "Competition Group" option was created to allow North American customers to have an S model lookalike with front and rear spoilers, 16-inch flat disc wheels, sport seats, sport springs and Bilstein Shock Absorbers. Customers could specify paint and interior colours the same way as on a normal 928. Two cars were made in the late 1980 model year for U.S. with this option. The package was officially available in 1981 and 1982 model years and was canceled in 1983 when the S model became available for these markets. Many cars have had S model features added by subsequent owners, making original "Competition Group" cars difficult to distinguish without checking option codes.
+
+In the 1982 model year, two special models were available for different markets. 202 "Weissach Edition" cars were sold in North America. Unusual features were champagne gold metallic paint, matching brushed gold flat disc wheels, two-tone leather interior, a plaque containing the production number on the dash and the extremely collectible three-piece Porsche luggage set. It's believed these cars were not made with S spoilers even though these were available in U.S. during this time period as part of the "Competition Group" option. The "Weissach Edition" option was also available for the US market 911 for the 1980 model year and 924 for the 1981 model year.
+
+141 special "50th Jubilee" 928 S models were available outside the U.S. and Canada to celebrate the company's 50-year existence as a car manufacturer. This model is also sometimes referred to as the "Ferry Porsche Edition" because his signature was embroidered into the front seats. It featured meteor metallic paint and was fitted with flat disc wheels, wine red leather and special striped fabric seat centers. Similar 911 and 924 specials were also made for world markets.
+
+Porsche updated the North American 928 S for 1985, replacing the 4.7 L SOHC engine with a new 5.0 L DOHC unit sporting four valves per cylinder and producing 215 kW; 292 PS (288 hp). Seats were also updated to a new style, these cars are sometimes unofficially called S3 to distinguish them from 16-valve "S" models. European models kept a 4.7 L engine, which was somewhat more powerful as standard, though lower 9.3:1 compression 32-valve engine together with catalytic converters became an option in some European countries and Australia for 1986. In 1986, revised suspension settings, larger brakes with 4-piston callipers, and a modified exhaust system was available on the 928S, marking the final changes to old body style cars.  These were straight from the 928S4, which was to debut a few months later. These changes came starting from VIN 1001, which means that the first thousand 1986 cars had the old brakes, but later cars had this equipment available. This later 1986 model is sometimes referred to as a 19861⁄2 or 1986.5 because of these changes. The name is a little misleading as more than 3/4 of the 1986 production had these updates.
+
+The 928 S4 variant debuted in the second half of 1986 as a 1987 model, an updated version of the 5.0 L V8 for all markets producing 235 kW; 316 hp (320 PS), sporting a new single-disc clutch in manual transmission cars, a larger torque converter in automatic transmission cars and fairly significant styling updates which gave the car a cleaner, sleeker look. S4 was much closer to being a true world car than previous models as the only major differences for North American models were instrumentation in either kilometers or miles, lighting, front and rear bumper shocks, and the availability of catalytic converters in many other markets. The Australian market version was the only one with different horsepower rating at 221 kW; 296 hp (300 PS) due to preparation for possible low grade fuel. Even this was achieved without engine changes.
+
+A Club Sport variant which was up to 100 kg (220 lb) lighter became available to continental Europe and U.S. in 1988. This model was the toned down version of the 1987 factory prototype which had a lightened body. Also in 1987, the factory made five white lightweight S4 models with a manual transmission for racecar drivers who were on their payroll at the time (Derek Bell, Jochen Mass, Hans Stuck, Bob Wollek and Jacky Ickx). These were close to same as later actual Club Sport models and can also be considered prototypes for it. An SE (sometimes called the S4 Sport due to model designation on rear bumper), a sort of halfway point between a normally equipped S4 and the more race-oriented Club Sport, became available for the UK market. It's generally believed that these cars have more power than the usual S4. They utilize parts which later became known as GT pistons, cams and engine ECU programs. Some of them had stronger, short ratio manual transmission. The automatic transmission was not available for this model.
+
+For the 1989 model year, a visible change inside was digital trip computer in the dashboard. At the same time Australian models received the same 235 kW; 316 hp (320 PS) engine management setup as other markets. Porsche debuted the 928 GT in the late winter 1988/89 after dropping the slow-selling CS and SE. In terms of equipment, the GT was like the 928 SE, having more equipment than a Club Sport model but less than a 928 S4 to keep the weight down somewhat. It had the ZF 40% limited-slip differential as standard like the Club Sport and SE before it. Also, like the CS and SE, the GT was only available with a manual gearbox. European 1989 CS and GT wheels had an RDK tire pressure monitoring system as standard, which was also optional for the same year S4. For the 1990 model year Porsche made RDK and a 0-100% variable ratio limited-slip called PSD (Porsche Sperr Differential) standard in both GT and S4 models for all markets. This system is much like the one from the flagship 959 and gives the vehicle even more grip on the track. In 1990, the S4 was no longer available with a manual transmission.
+
+The S4 and GT variants halted production at the end of the 1991 model year, making way for the final version of the 928. The 928 GTS was available for sale in late 1991 as a 1992 model in Europe and in spring of 1992 as an early 1993 model in North America. Changed bodywork, larger front brakes and a new, more powerful 5.4 L, 350 PS (257 kW/345 hp) engine were the big advertised changes; what Porsche wasn't advertising was the price. Loaded GTS models could eclipse US$100,000 in 1995, making them among the most expensive cars on the road at the time. This severely hampered sales despite the model's high competency and long standard equipment list. Porsche discontinued the GTS model that year after shipping only 77 of them to the United States. Total worldwide production for all years was a little over 61,000 cars.
+
+Second-hand models' value decreased as a result of high maintenance costs due to spare parts that are expensive to manufacture. Many parts suppliers and enthusiast networks exist, especially in the United States, Germany and the UK.
+
+Road & Track magazine published a speculative piece in their April 2006 issue regarding the possibility of a new, 928-esque coupé that may debut on a shortened version of the Panamera's platform sometime around 2011 or 2012 model year but this speculation remained uncredible as Porsche denied the possibility of any such model reaching production stage.
+
+**Evolution[edit]**
+The evolution of the 928 during its 18 years of production was quite subtle. The list below show the major differences, which were made to the nose, tail, interior, engine, and wheels.
+
+1978
+
+1979
+
+1980
+
+1981
+
+1982
+
+1983
+
+1984
+
+1985
+
+1986
+
+1987
+
+1988
+
+1989
+
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+**Timeline[edit]**
+**Worldwide production numbers[edit]**
+All production numbers are approximate figures collected from several sources. Porsche hasn't published actual numbers.
+
+1) Count contains 2 1980, 458 1981 and 1,084 1982 US "Competition Group" models made.
+2) Count contains 202 US "Weissach edition" models made in 1982 model year. 205 is official number which don't seem to be correct. Cars with higher production number than 202 or 205 exist. 217 is known existing plaque number but there were only 202 cars made with M462 option code.
+3) Count contains 141 European "50th Jubilee" models made in 1982 model year.
+4) Count contains 44 M151 low compression 16V 4.7L S engine models made in 1985 model year for Australian market.
+5) Count contains 2,219 so-called S3 US models made in 1985 model year and 877 1986 models made in early part of 1986 model year up to November 1985.
+6) Count contains 517 1986 European 32-valve S models. Most were Australian and Japanese models. 266 were optional M298/M299 catalytic converter models sold in Germany, Switzerland and Austria.
+7) Count contains 2,071 so-called S3.5 US models made in later part of 1986 model year starting from November 1985.
+8) Count contains 6 Club Sport prototypes made in the 1987 model year.
+9) Count contains 10 European models and 2 US models made in 1988 model year and 7 European models made in early part of 1989 model year. Last Club Sport cars were made in early winter 1988/89.
+10) Count contains 358 European and 115 US/CDN model made in 1989 model year, 808 European and 142 US made in 1990, 516 European and 145 US made in 1991 resulting 1682 European and 396 US model made over two and half year time period. GT production started in around February 1989. 
+11) Count contains 955 1992, 621 1993, 523 1994 and 399 1995 European models resulting 2,498 cars made. Count contains 88 early VIN 1993, 102 late VIN 1993, 19 + 120 1994 and 77 1995 US models resulting 406 cars made.
+
+**Special versions[edit]**
+**Porsche 942[edit]**
+The Porsche 942 was a special edition 928 presented by the company as a gift to Ferry Porsche on his 75th birthday in 1984.[23] It's also known as the 928–4. It featured a 25 cm (10 in) longer wheelbase than the normal 928 production model, including an extended roof above the rear seats to better accommodate tall passengers, and what were at the time very advanced projector headlights. The weight increased marginally, by 75 kg (165 lb).[24] It also received the new front and rear bumpers two years before they entered production on the S4 and the 5.0-litre 32-valve engine before it was introduced in the US market. This early model of the engine was slightly less powerful, producing 310 PS (228 kW) and 420 N⋅m (310 lb⋅ft) of torque at 2700 rpm.[24]
+
+**"Study H50" Four-door 928 based prototype[edit]**
+Three years later, in 1987, the lengthened 928 that had been presented to the company's founder on his 75th birthday turned up as a "Feasibility Study", now with a second (rather narrow) set of doors, apparently opening in the same way as the suicide doors seen on the later Mazda RX-8.[25]  At the time "Study H50" appeared to sink with little trace, but two decades later, with the launch of the larger four-door Porsche Panamera saloon, the 928 based four-door saloon prototype from 1987 acquired greater significance.[25]
+
+**928 long wheelbase specials[edit]**
+In 1986 Porsche together with tuning company AMG made a few long-wheelbase 928 specials. Unlike the 942, these had normal 928 headlights. One was presented to American Sunroof Corporation (ASC) founder and CEO Heinz Prechter. ASC was later partly responsible for manufacturing Porsche 944 S2 cabriolets.
+
+**Racing[edit]**
+**The Max Moritz 'Semi Works' 928 GTR[edit]**
+Porsche's Racing Department never officially entered or prepared a racing 928 for a pure works entry. Porsche did arrange for the creation of a 928 GTR, to compete against the then-dominant 911 (993 GTR) on the race track. In order not to offend the sensibilities of their traditional 911 customers by openly challenging them with a works offering, Porsche asked Max Moritz Racing, their longtime private racing partner from nearby Reutlingen to enter a 928GTR Cup as a 'semi-works' car.[citation needed]
+
+**All-aluminium 928[edit]**
+For the 1984 24 hours of Daytona, Porsche sent one of its experimental "All-aluminium" 928S to the Brumos Racing Team to be prepared with specific instruction not to modify the car in any way. Porsche wanted to promote the performance of the 928 to North America. The drivers Richard Attwood (GB), Vic Elford (GB), Howard Meister (USA) and Bob Hagestad (USA) were told to just "drive the car". During practice for the 24-hour race the drivers found the car to be somewhat unstable on the high banks of Daytona and wanted to add a rear wing to the car; Porsche denied the request. The Brumos team tinkered with the suspension set up to make the car more stable. The car finished in 15th overall and 4th in the GTO class. One driver stated in an interview later on, that were it not for a lengthy pit stop to fix some body damage, they would have finished in the top 5 overall. The car was then returned to Porsche and is now in the Porsche Museum. A 928S from Raymond Boutinaud also competed at the 24 Hours of Le Mans in 1983 & 1984 with a 22nd-place finish in 1984. The same car also competed in 1000k races at Spa, Brands Hatch and Silverstone in 1984, but with little success.
+
+**Closed Course Speed Record[edit]**
+A new closed course speed record was set for the Porsche 928 at the Transportation Research Center (TRC) Proving Grounds. TRC.[26] in Ohio on October 5, 2020. Race car builder and driver Carl Fausett reached 234.434 MPH on the high-banked paved oval. The vehicle was the same car he took to Bonneville (above) with further enhancements. At the time of this race, it had 1134 BHP from a specially constructed and supercharged Porsche 928 V8 and had been named The Meg in reference to the Megalodon. Speeds were measured by Tag/Heuer laser traps and certified by TRC staff. The 234.434 MPH top speed eclipsed the previous record of 216.635 MPH and made the Meg the worlds' fastest 928, and set a new Porsche closed-course record.[27]
+
+**References[edit]**
+**Notes[edit]**
+**Bibliography[edit]**
+**General[edit]**
+**Workshop manuals[edit]**
+**External links[edit]**

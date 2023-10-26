@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .chat-container {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            width: 600px;
+            padding: 20px;
+        }
+
+        .chat-header {
+            background-color: #00bfff;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .chat-output {
+            height: 400px;
+            overflow-y: scroll;
+            padding: 10px;
+        }
+
+        .user-text {
+            background-color: #dcf8c6;
+            border-radius: 10px;
+            padding: 10px;
+            max-width: 70%;
+            word-wrap: break-word;
+            margin: 10px 0;
+        }
+
+        .bot-text {
+            background-color: #e2e2e2;
+            border-radius: 10px;
+            padding: 10px;
+            max-width: 70%;
+            word-wrap: break-word;
+            margin: 10px 0;
+        }
+
+        .message-timestamp {
+            color: #777;
+            font-size: 12px;
+        }
+
+        input[type="text"] {
+            width: 85%; /* Adjusted width to make space for the icon */
+            padding: 10px;
+            border: none;
+        }
+
+        button {
+            width: 15%; /* Adjusted width to make space for the icon */
+            padding: 10px;
+            background-color: #00bfff;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* Add the icon styles */
+        .user-icon::before {
+            content: '\1F464'; /* Unicode for user icon (👤) */
+            margin-right: 5px;
+        }
+
+        .bot-icon::before {
+            content: '\1F916'; /* Unicode for robot icon (🤖) */
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            Chatbot
+        </div>
+        <div class="chat-output" id="chat-output">
+            <!-- Chat messages will appear here -->
+        </div>
+        <div class="chat-message">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <button onclick="sendUserInput()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        function getCurrentTime() {
+            const now = new Date();
+            const hours = now.getHours().toString().padStart(2, '0');
+            const minutes = now.getMinutes().toString().padStart(2, '0');
+            return `${hours}:${minutes}`;
+        }
+
+        function appendUserMessage(message) {
+            const chatOutput = document.getElementById("chat-output");
+            const messageContainer = document.createElement("div");
+            messageContainer.className = "user-text";
+            const timestamp = document.createElement("span");
+            timestamp.className = "message-timestamp";
+            timestamp.textContent = `User (${getCurrentTime()})`;
+            const icon = document.createElement("span");
+            icon.className = "user-icon";
+            messageContainer.appendChild(icon);
+            messageContainer.appendChild(timestamp);
+            messageContainer.appendChild(document.createTextNode(message));
+            chatOutput.appendChild(messageContainer);
+        }
+
+        function appendBotMessage(message) {
+            const chatOutput = document.getElementById("chat-output");
+            const messageContainer = document.createElement("div");
+            messageContainer.className = "bot-text";
+            const timestamp = document.createElement("span");
+            timestamp.className = "message-timestamp";
+            timestamp.textContent = `Bot (${getCurrentTime()})`;
+            const icon = document.createElement("span");
+            icon.className = "bot-icon";
+            messageContainer.appendChild(icon);
+            messageContainer.appendChild(timestamp);
+            messageContainer.appendChild(document.createTextNode(message));
+            chatOutput.appendChild(messageContainer);
+        }
+
+        function sendUserInput() {
+            const userInput = document.getElementById("user-input").value;
+            appendUserMessage(userInput);
+
+            // Make an API call to your Python code to get the response
+            fetch("/get-response?user_input=" + userInput)
+                .then(response => response.json())
+                .then(data => {
+                    appendBotMessage(data.response);
+                    scrollToBottom();
+                })
+                .catch(error => console.error("Error:", error));
+
+            document.getElementById("user-input").value = "";
+        }
+
+        function scrollToBottom() {
+            const chatOutput = document.getElementById("chat-output");
+            chatOutput.scrollTop = chatOutput.scrollHeight;
+        }
+    </script>
+</body>
+</html>

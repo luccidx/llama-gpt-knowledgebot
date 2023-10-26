@@ -1,0 +1,19 @@
+**Contents**
+**Porsche PFM 3200**
+The  Porsche PFM 3200 was a six-cylinder horizontally opposed air-cooled aircraft engine developed by Porsche from its air-cooled line of automobile engines from the famous Porsche 911 sports car. The PFM designation was derived from the name of the division that designed the engines,Porsche-Flugmotoren ("Porsche Flight Engines").
+
+**Design and development[edit]**
+In the 1950s, European light aircraft builders began adapting the air-cooled automobile engines from the Porsche 356 and Volkswagen Beetle into aircraft engines with a series of limited modifications. Porsche cooperated with some of these builders and produced a series of factory-built engines for about six years between 1957 and 1963, the Porsche 678 series. These relatively small engines displaced about 1.6 litres (97 cubic inches) and produced between 41 and 52 kW (55 and 70 hp), depending on the version.
+
+Porsche decided to re-enter the aviation market with much larger engines derived from the engine used in the Porsche 911, starting development in 1981.[1] As the engines ran at higher speed than most aircraft engine designs, the propeller drive used a 0.442:1 reduction gearing so it could drive common propellers. The high operating speed meant the engine ran more smoothly than older designs, and the use of a muffler meant it was quieter as well. With about 3.2 litres (195 cubic inches) displacement, the normally aspirated N-series models produced about 160 kW (210 hp), while the turbocharged T-series produced about 180 kW (240 hp). This was roughly twice the power of a conventional lower-rpm design of the same displacement. With single-lever operation, fully aerobatic fuel and oil supplies,  fuel injection with automatic altitude compensation and optional turbocharging, the PFM 3200 series were some of the most advanced engines on the market. However, when fully accessorized, they were heavier and larger than competitive engines, especially in cross-section (important for aerodynamics). Also they generated more aerodynamic cooling drag due to the fan system used for cooling.[2]
+
+After being introduced in late 1985 and starting to generate increasing interest in the general aviation (GA) market, Porsche exited the field during the massive downturn in the market in the late 1980s, closing the lines in 1991. It is suggested that the program cost it US$75 million to develop and produce the small number of engines delivered (about 80).[3] Although marketed for only a short period, the PFM was found on a variety of aircraft as the primary powerplant, or as one-off modifications. These included the Extra 330, Mooney M20L, Socata TB-16, Robin DR400, Ruschmeyer MF-85 and others. Only the M20L went into production, with 40 produced in 1988, and one more in 1989.
+
+In a letter dated September 17, 2007, Porsche informed the Federal Aviation Administration (FAA) that it was surrendering the type certificate for the PFM 3200 engine and that it would no longer support the engine.[4] In March 2009, the FAA issued a special airworthiness information bulletin stating that type certificates for existing aircraft with the PFM 3200 engine were still valid and would remain so as long as the aircraft meet Federal Aviation Regulations maintenance and operation requirements. However, the bulletin also said that Porsche is not exporting new or replacement parts for the engine and there is no guidance as to how compliance would be possible once existing OEM parts are exhausted.[4]
+
+**Variants[edit]**
+**Applications[edit]**
+**See also[edit]**
+**References[edit]**
+**Further reading[edit]**
+**External links[edit]**

@@ -1,0 +1,31 @@
+**Contents**
+**Porsche Mission R**
+The Porsche Mission R is a racing vehicle developed by Porsche equipped with a battery-electric drivetrain, first shown at IAA on September 6, 2021. Just as the Mission E previewed the Taycan sports saloon, the Mission R is a preview of a potential all-electric grand touring racing car for motorsport.
+
+**Design[edit]**
+The Mission R was developed in approximately nine months by a team of 30, and was unveiled at IAA 2021 on September 6.[1][2]
+
+At its unveiling, Porsche stated the Mission R was intended for a one-make racing series with all-electric cars and could match the lap times of the 992 GT3 Cup. A Porsche spokesman also declined to confirm if the Mission R would be campaigned in the forthcoming FIA Electric GT Championship (2023+), noting that it already participated in the FIA Formula E World Championship and two factory-backed teams would be impractical.[3][4] However, the technical specifications are largely compatible with Electric GT, and it is possible that Porsche may transition to the former series.[5]
+
+The automotive press have speculated the Mission R could preview a future electrified equivalent to the existing 718 Cayman,[4] based in part on its size,[2] although Porsche have denied this.[1]
+
+**Drivetrain[edit]**
+The Mission R features all-wheel drive (AWD) implemented by two separate motors, one each for the front and rear axles. The maximum combined output is 800 kW (1,073 hp), split as 320 kW (429 hp) to the front and 480 kW (644 hp) to the rear in "qualifying" mode.[6] In "race" mode, maximum continuous combined output is scaled back to 500 kW (671 hp).[7] Estimated stall torque is 1,000 N⋅m (740 lb⋅ft).[1] Claimed acceleration is 0–100 km/h (62 mph) in 2.5 seconds, with a top speed exceeding 300 km/h (190 mph).[6]
+
+The permanent magnet synchronous motors feature direct stator oil cooling, raising the maximum peak and continuous power output.[6] The front and rear motors, gearboxes, and pulse-controlled inverters are identical to each other,[7] and are the same as the motors fitted to the Taycan Turbo S.[8] The stator features "hairpin winding", increasing the coil density.[7]
+
+The traction battery has a capacity of 82 kW-hr and can charge at a maximum rate of 350 kW from a 900 VDC source, enabling the battery to be recharged from 5 to 80% state-of-charge in 15 minutes.[7] Regenerative braking is possible at rates up to 800 kW;[8] for a invitational session at the Porsche Experience Center Los Angeles track, limited to automotive journalists, the car was set up with 60% regenerative braking force on the front axle and 100% regenerative on the rear.[9] The battery accounts for approximately 250 or 500 kg (550 or 1,100 lb) according to different sources,[8] up to 1⁄3 of the car's weight.[1] Rather than the underfloor battery adopted by the Taycan, the battery is housed behind the seats, giving the car a weight distribution similar to that of the mid-engine Boxster/Cayman.[8] The vehicle is designed for the sprint race format, with sessions lasting from 25 to 40 minutes.[7]
+
+**Chassis[edit]**
+The body of the Mission R features plastic body panels reinforced with either carbon fiber or natural fiber (sourced from flax plants), wrapped around a carbon fiber cage.[10] Currently, no race series allows a carbon cage.[2]
+
+The suspension uses parts borrowed from other Porsche cars, including the 911 RSR, 911 GT3 R, and 718 Cayman GT4, along with a custom rear subframe.[1]
+
+**Reception and influence[edit]**
+In 2021, Porsche announced the Mission R would be featured in a virtual racing game.[4] The driver's cell is a self-contained module that could be used for an esports cockpit simulator outside the vehicle.[6][11]
+
+BBC's TopGear named the Mission R its concept car of the year in January 2022.[8] In March 2022, CEO Oliver Blume announced the next 718 Cayman would be an all-electric sports car, making it the third production Porsche with an electric drivetrain, after the Taycan and Macan EV.[12]
+
+**See also[edit]**
+**References[edit]**
+**External links[edit]**
