@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'a843ad28-8559-42fc-9f55-4bdb8b8dd6d5'
+  azureServiceConnectionId: '9057a1e9-2310-4c04-b1cf-d0b21fdde967'
 
   # Web app name
   webAppName: 'llamagptbot'
@@ -22,8 +22,8 @@ variables:
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
 
-  # Python version: 3.7
-  pythonVersion: '3.7'
+  # Python version: 3.11
+  pythonVersion: '3.11'
 
 stages:
 - stage: Build
@@ -33,12 +33,22 @@ stages:
     pool:
       vmImage: $(vmImageName)
     steps:
+    - task: Cache@2
+      inputs:
+        key: 'pip | "$(Agent.OS)" | requirements.txt'  # Define a unique cache key
+        path: $(projectRoot)/.pip-cache  # Directory to cache
+        restoreKeys: pip | "$(Agent.OS)" | requirements.txt  # Restore the cache using the same key
+      displayName: 'Cache Python dependencies'
     - task: UsePythonVersion@0
       inputs:
         versionSpec: '$(pythonVersion)'
+        addToPath: true
       displayName: 'Use Python $(pythonVersion)'
 
     - script: |
+        sudo apt-get update
+        sudo apt-get install python3.11
+
         python -m venv antenv
         source antenv/bin/activate
         python -m pip install --upgrade pip
@@ -46,6 +56,8 @@ stages:
         pip install -r requirements.txt
       workingDirectory: $(projectRoot)
       displayName: "Install requirements"
+      
+
 
     - task: ArchiveFiles@2
       displayName: 'Archive files'
