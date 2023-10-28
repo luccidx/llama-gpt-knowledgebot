@@ -46,6 +46,8 @@ stages:
       displayName: 'Use Python $(pythonVersion)'
 
     - script: |
+        rm -rf /tmp/zipdeploy
+
         sudo apt-get update
         sudo apt-get install python3.11
 
