@@ -1,3 +1,5 @@
+[![luccidx/llama-gpt-knowledgebot - GitHub](https://gh-card.dev/repos/luccidx/llama-gpt-knowledgebot.png?fullname=)](https://github.com/luccidx/llama-gpt-knowledgebot)
+
 # Project: Text-Based Question Answering System with Context Retrieval
 
 This project implements a question-answering system that leverages pre-trained models and semantic similarity search to provide informative responses based on a given context.
